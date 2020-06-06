@@ -1,0 +1,4 @@
+#Whitelist selected files:
+
+kalkulator.out
+*.o
