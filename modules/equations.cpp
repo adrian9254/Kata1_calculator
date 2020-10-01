@@ -1,4 +1,5 @@
-//Equation Files for function Initialization 
+//Equation Files for function Initialization
+
 #include <iostream>
 #include <string>
 #include "equations.hpp"
