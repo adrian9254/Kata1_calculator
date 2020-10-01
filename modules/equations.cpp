@@ -1,8 +1,10 @@
+//Equation Files for function Initialization
+
 #include <iostream>
 #include <string>
 #include "equations.hpp"
 
-void plus()
+void plus() //Addition Function 
 {
 	int a, b = 0;
 	std::cout << "Tou typed addition. Please type 1st number:";
@@ -12,7 +14,7 @@ void plus()
 	std::cout << a << " + " << b << " = " << a + b << std::endl;
 }
 
-void minus()
+void minus() //Subtraction Function
 {
 	int a, b = 0;
 	std::cout << "Tou typed substraction. Please insert 1st number:";
@@ -23,7 +25,7 @@ void minus()
 }
 
 
-void divide()
+void divide() //Division Function
 {
 	int a, b = 0;
 	std::cout << "Tou typed division. Please insert 1st number:";
@@ -33,7 +35,7 @@ void divide()
 	std::cout << a << " + " << b << " = " << a / b << std::endl;
 }
 
-void multiply()
+void multiply() //Multiplcation Function
 {
 	int a, b = 0;
 	std::cout << "Tou typed multiplication. Please insert 1st number:";
