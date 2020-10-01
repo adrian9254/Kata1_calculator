@@ -1,3 +1,4 @@
+//Header Files for function Declaration
 #ifndef EQUATIONS_HPP
 #define EQUATIONS_HPP
 
